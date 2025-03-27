@@ -22,12 +22,12 @@ This project uses descriptive analysis, mostly box plots for explatory data anal
 ## Results
 1. I was able to extract the top 20 list for planes with high survival rate:
 
-   ![High Survival rate planes](./Images/Top 20 Planes by Survival Rate.png) 
+![High Survival rate planes](./Images/Top 20 Planes by Survival Rate.png) 
 2. Identified  Phases of flight with High accident Count:
 
-    ![Phases of flight](./Images/Accident Count by Broad Phase of Flight.png) 
+![Phases of flight](./Images/Accident Count by Broad Phase of Flight.png) 
 3. Time series plot showed a downward trend in number of accident counts:
-    ![Accidents over the years](./Images/Accidents Over the Years.png)
+![Accidents over the years](./Images/Accidents Over the Years.png)
 
 
 ## Conclusions
