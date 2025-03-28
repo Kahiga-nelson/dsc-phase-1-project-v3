@@ -45,6 +45,8 @@ This project uses descriptive analysis, mostly box plots for explatory data anal
 
 See the full analysis in the [Jupyter Notebook](./Aviation_Enterprise_Analysis.ipynb) or review this [presentation](./Aviation_Enterprise_Final.pdf).
 For additional info, contact Nelson Kamau Kahiga at [kamaunelson94@gmail.com](kamaunelson94@gmail.com)
+View the Interactive Dashboard  
+🔗 [Click here to view on Tableau Public](https://public.tableau.com/views/Planesurvivalrates/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Repository Structure
 
